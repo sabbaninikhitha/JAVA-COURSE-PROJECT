@@ -1,1 +1,2 @@
 # JAVA-COURSE-PROJECT
+The aim of the project is to create a user friendly model to assist plant  nursery owner to bring their offline stores to online platform.It is built to  help owners effectively manage their task by automation.on the other end ,it allows the customers to make purchases from nursery at the comfort of their fingers and make queries using complaints option at any discomfort arisen![image](https://github.com/sabbaninikhitha/JAVA-COURSE-PROJECT/assets/107915604/2979b1d8-f420-4ad1-903b-b9c4862a900a)
